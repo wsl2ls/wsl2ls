@@ -9,6 +9,6 @@
 > * 微信公众号：iOS2679114653
 > * 微信号：w2679114653（备注来意）
 
-![QQ交流群: 835303405](https://github.com/wsl2ls/iOS_TipsPreview/PrviewPicture/QQ交流群.png)
+![QQ交流群: 835303405](https://github.com/wsl2ls/iOS_TipsPreview/blob/master/PrviewPicture/QQ交流群.png)
 
 ![奔跑的程序猿iOSer](微信公众号.png)
